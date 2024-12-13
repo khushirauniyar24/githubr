@@ -1,1 +1,9 @@
-GitHub
+git command:
+
+git init
+git status
+git add file_name
+git add.
+git commit gi-m "comment"
+
+hey there Khushi.
